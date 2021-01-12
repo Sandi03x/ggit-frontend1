@@ -1,0 +1,19 @@
+nav {
+	background-color: darkgrey;
+	padding: 10px;
+}
+
+nav a {
+	color:yellow;
+	text-decoration: none;
+}
+
+.portal-name {
+	font-weight: bold;
+}
+
+nav button {
+	background-color: darkgrey;
+	border-color: white;
+	border-radius: 5px;
+}
